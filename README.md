@@ -20,12 +20,12 @@ Table of Contents
 </h2>
 
 - [Definition](#Definition)
-- [Value based methods](#Value-based)
+- [Value based methods](#Value-based-methods)
 
 # Definition
 
-- A Definition of Continual Reinforcement Learning[[NeurIPS2023]](<https://openreview.net/pdf?id=ZZS9WEWYbD>)
+- A Definition of Continual Reinforcement Learning [[NeurIPS2023]](<https://openreview.net/pdf?id=ZZS9WEWYbD>)
 
-# Value-based
+# Value-based-methods
 
 - Prediction and Control in Continual Reinforcement Learning [[NeurIPS2023]](<https://arxiv.org/pdf/2312.11669.pdf>) - [[Code]](<https://github.com/NishanthVAnand/prediction-and-control-in-continual-reinforcement-learning>)
