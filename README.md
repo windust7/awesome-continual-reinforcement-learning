@@ -21,6 +21,7 @@ Table of Contents
 
 - [Definition](#Definition)
 - [Value based methods](#Value-based-methods)
+- [Environments](#Environments)
 
 # Definition
 
@@ -29,3 +30,5 @@ Table of Contents
 # Value-based-methods
 
 - Prediction and Control in Continual Reinforcement Learning [[NeurIPS2023]](<https://arxiv.org/pdf/2312.11669.pdf>) - [[Code]](<https://github.com/NishanthVAnand/prediction-and-control-in-continual-reinforcement-learning>)
+
+# Environments
