@@ -20,15 +20,20 @@ Table of Contents
 </h2>
 
 - [Definition](#Definition)
-- [Value based methods](#Value-based-methods)
-- [Environments](#Environments)
+- [Survey](#Survey)
+- [Value based method](#Value-based-method)
+- [Environment](#Environment)
 
 # Definition
 
 - A Definition of Continual Reinforcement Learning [[NeurIPS2023]](<https://openreview.net/pdf?id=ZZS9WEWYbD>)
 
-# Value-based-methods
+# Survey
+
+- Towards continual reinforcement learning: A review and perspectives [[JAIR2022]](<https://www.jair.org/index.php/jair/article/download/13673/26878>)
+
+# Value-based-method
 
 - Prediction and Control in Continual Reinforcement Learning [[NeurIPS2023]](<https://arxiv.org/pdf/2312.11669.pdf>) - [[Code]](<https://github.com/NishanthVAnand/prediction-and-control-in-continual-reinforcement-learning>)
 
-# Environments
+# Environment
