@@ -40,5 +40,5 @@ Table of Contents
 
 - Switching MDPs and Continual Supervised Learning in [A Definition of Continual Reinforcement Learning](<https://openreview.net/pdf?id=ZZS9WEWYbD>)
 - (Semi-Continual RL) Discrete grid, Continuous grid and Minigrid in [Prediction and Control in Continual Reinforcement Learning](<https://arxiv.org/pdf/2312.11669.pdf>)
-- JellyBeanWorld (JBW) [[ICLR2020]](<https://arxiv.org/pdf/2002.06306.pdf>)
-- MinAtar [[arXiv2019]](<https://arxiv.org/pdf/1903.03176.pdf>)
+- JellyBeanWorld (JBW) [[ICLR2020]](<https://arxiv.org/pdf/2002.06306.pdf>) - [[Code]](<https://github.com/eaplatanios/jelly-bean-world>)
+- MinAtar [[arXiv2019]](<https://arxiv.org/pdf/1903.03176.pdf>) - [[Code]](<https://github.com/kenjyoung/MinAtar>)
