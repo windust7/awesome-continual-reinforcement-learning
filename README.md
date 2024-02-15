@@ -7,7 +7,7 @@
 
 </div>
 
-This repository contains a collection of surveys, datasets, papers, and codes for continual reinforcement learning.
+This repository contains a collection of papers and codes for continual reinforcement learning.
 
 I selected papers that **attempted to solve continual reinforcement learning problems**. The definition of continual reinforcement learning covered in this repository follows "[A Definition of Continual Reinforcement Learning](https://openreview.net/pdf?id=ZZS9WEWYbD)" paper. However, if papers published before this paper has significant impact, I will add them too.
 
