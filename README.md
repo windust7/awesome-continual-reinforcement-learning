@@ -11,7 +11,7 @@ This repository contains a collection of papers and codes for continual reinforc
 
 I selected papers that **attempted to solve continual reinforcement learning problems**. The definition of continual reinforcement learning covered in this repository follows "[A Definition of Continual Reinforcement Learning](https://openreview.net/pdf?id=ZZS9WEWYbD)" paper. However, if papers published before this paper has significant impact, I will add them too.
 
-I promise to continue to maintain this repository so if you know papers worth adding, please open a pull request or send a message(email) to me. Tell me where the article was published and when, and send me GitHub and ArXiv links if they are available.
+I promise to continue to maintain this repository (I plan to update at least one paper each week, but there may be some weeks I am unable to do so) so if you know papers worth adding, please open a pull request or send a message(email) to me. Tell me where the article was published and when, and send me GitHub and ArXiv links if they are available.
 
 I am also open to any ideas for improvements. Thank you.
 
@@ -24,6 +24,7 @@ Table of Contents
 - [Value based method](#Value-based-method)
 - [Actor-Critic method](#Actor-Critic-method)
 - [Environment](#Environment)
+- [etc](#etc)
 
 # Definition
 
@@ -54,3 +55,6 @@ Table of Contents
 - JellyBeanWorld (JBW) [[ICLR2020]](<https://arxiv.org/pdf/2002.06306.pdf>) - [[Code]](<https://github.com/eaplatanios/jelly-bean-world>)
 - MinAtar [[arXiv2019]](<https://arxiv.org/pdf/1903.03176.pdf>) - [[Code]](<https://github.com/kenjyoung/MinAtar>)
 - CORA [[CoLLAs2022]](<https://arxiv.org/pdf/2110.10067.pdf>) - [[Code]](<https://github.com/AGI-Labs/continual_rl>)
+
+# etc
+- Understanding Plasticity in Neural Networks [[ICML2023]](<https://arxiv.org/pdf/2303.01486.pdf>)
