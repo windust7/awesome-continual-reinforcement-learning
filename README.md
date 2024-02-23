@@ -1,4 +1,4 @@
-# awesome-continual-reinforcment-learning
+# awesome-continual-reinforcement-learning
 
 <div align="center">
 
