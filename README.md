@@ -40,6 +40,7 @@ Table of Contents
 - Loss of plasticity in continual deep reinforcement learning [[arXiv2023]](<https://arxiv.org/pdf/2303.07507.pdf>)
 - Same State, Different Task: Continual Reinforcement Learning without Interference [[AAAI2022]](<https://ojs.aaai.org/index.php/AAAI/article/view/20674/20433>) - [[Code]](<https://github.com/skezle/owl>)
 - Continual Reinforcement Learning with Complex Synapses [[ICML2018]](<https://proceedings.mlr.press/v80/kaplanis18a/kaplanis18a.pdf>)
+- Policy and Value Transfer in Lifelong Reinforcement Learning [[ICML2018]](<https://proceedings.mlr.press/v80/abel18b/abel18b.pdf>) - [[Code]](<https://github.com/david-abel/transfer_rl_icml_2018>)
 
 # Actor-Critic-method
 
