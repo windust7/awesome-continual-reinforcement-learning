@@ -44,6 +44,7 @@ Table of Contents
 
 # Actor-Critic-method
 
+- Reset & Distill: A Recipe for Overcoming Negative Transfer in Continual Reinforcement Learning [[arXiv2024]](<https://arxiv.org/pdf/2403.05066.pdf>)
 - Task-agnostic continual reinforcement learning: In praise of a simple baseline [[CoLLAs2023]](<https://arxiv.org/pdf/2205.14495.pdf>) - [[Code]](<https://github.com/amazon-science/replay-based-recurrent-rl>)
 - Self-Activating Neural Ensembles for Continual Reinforcement Learning [[CoLLAs2022]](<https://proceedings.mlr.press/v199/powers22a/powers22a.pdf>)
 - Same State, Different Task: Continual Reinforcement Learning without Interference [[AAAI2022]](<https://ojs.aaai.org/index.php/AAAI/article/view/20674/20433>) - [[Code]](<https://github.com/skezle/owl>)
