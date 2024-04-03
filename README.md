@@ -32,7 +32,7 @@ Table of Contents
 
 # Survey
 
-- Towards continual reinforcement learning: A review and perspectives [[JAIR2022]](<https://www.jair.org/index.php/jair/article/download/13673/26878>)
+- Towards Continual Reinforcement Learning: A Review and Perspectives [[JAIR2022]](<https://www.jair.org/index.php/jair/article/download/13673/26878>)
 
 # Value-based-method
 
