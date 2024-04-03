@@ -59,9 +59,10 @@ Table of Contents
 - CORA [[CoLLAs2022]](<https://arxiv.org/pdf/2110.10067.pdf>) - [[Code]](<https://github.com/AGI-Labs/continual_rl>)
 
 # etc
+
 - Disentangling the Causes of Plasticity Loss in Neural Networks [[arXiv2024]](<https://arxiv.org/pdf/2402.18762.pdf>)
-- Reset & Distill: A Recipe for Overcoming Negative Transfer in Continual Reinforcement Learning [[arXiv2024]](<https://arxiv.org/pdf/2403.05066.pdf>)
 - Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks [[ICLR2024]](<https://openreview.net/pdf?id=sKPzAXoylB>) - [[Code]](<https://github.com/mohmdelsayed/upgd>)
 - Deep Reinforcement Learning with Plasticity Injection [[NeurIPS2023]](<https://arxiv.org/pdf/2305.15555.pdf>)
 - PLASTIC: Improving Input and Label Plasticity for Sample Efficient Reinforcement Learning [[NeurIPS2023]](<https://proceedings.neurips.cc/paper_files/paper/2023/file/c464fc4516aca4e68f2a14e67c6f0402-Paper-Conference.pdf>) - [[Code]](<https://github.com/dojeon-ai/plastic>)
 - Understanding Plasticity in Neural Networks [[ICML2023]](<https://arxiv.org/pdf/2303.01486.pdf>)
+- Continual backprop: Stochastic gradient descent with persistent randomness [[arXiv2021]](<https://arxiv.org/pdf/2108.06325.pdf>)
