@@ -37,7 +37,7 @@ Table of Contents
 # Value-based-method
 
 - Prediction and Control in Continual Reinforcement Learning [[NeurIPS2023]](<https://arxiv.org/pdf/2312.11669.pdf>) - [[Code]](<https://github.com/NishanthVAnand/prediction-and-control-in-continual-reinforcement-learning>)
-- Loss of plasticity in continual deep reinforcement learning [[arXiv2023]](<https://arxiv.org/pdf/2303.07507.pdf>)
+- Loss of plasticity in continual deep reinforcement learning [[CoLLAs2023]](<https://arxiv.org/pdf/2303.07507.pdf>)
 - Same State, Different Task: Continual Reinforcement Learning without Interference [[AAAI2022]](<https://ojs.aaai.org/index.php/AAAI/article/view/20674/20433>) - [[Code]](<https://github.com/skezle/owl>)
 - Continual Reinforcement Learning with Complex Synapses [[ICML2018]](<https://proceedings.mlr.press/v80/kaplanis18a/kaplanis18a.pdf>)
 - Policy and Value Transfer in Lifelong Reinforcement Learning [[ICML2018]](<https://proceedings.mlr.press/v80/abel18b/abel18b.pdf>) - [[Code]](<https://github.com/david-abel/transfer_rl_icml_2018>)
