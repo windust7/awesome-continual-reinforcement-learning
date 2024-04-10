@@ -23,7 +23,7 @@ Table of Contents
 - [Survey](#Survey)
 - [Value based method](#Value-based-method)
 - [Actor-Critic method](#Actor-Critic-method)
-- [Both](#Both)
+- [Both methods](#Both-methods)
 - [Environment](#Environment)
 - [etc](#etc)
 
@@ -51,7 +51,7 @@ Table of Contents
 - Same State, Different Task: Continual Reinforcement Learning without Interference [[AAAI2022]](<https://ojs.aaai.org/index.php/AAAI/article/view/20674/20433>) - [[Code]](<https://github.com/skezle/owl>)
 - Continual Reinforcement Learning with Multi-Timescale Replay [[arXiv2020]](<https://arxiv.org/pdf/2004.07530.pdf>) - [[Code]](<https://github.com/ChristosKap/multi_timescale_replay>)
 
-# Both
+# Both-methods
 
 - Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL [[arXiv2024]](<https://arxiv.org/pdf/2404.02113.pdf>)
 
