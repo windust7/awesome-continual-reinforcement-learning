@@ -23,6 +23,7 @@ Table of Contents
 - [Survey](#Survey)
 - [Value based method](#Value-based-method)
 - [Actor-Critic method](#Actor-Critic-method)
+- [Both](#Both)
 - [Environment](#Environment)
 - [etc](#etc)
 
@@ -49,6 +50,10 @@ Table of Contents
 - Self-Activating Neural Ensembles for Continual Reinforcement Learning [[CoLLAs2022]](<https://proceedings.mlr.press/v199/powers22a/powers22a.pdf>)
 - Same State, Different Task: Continual Reinforcement Learning without Interference [[AAAI2022]](<https://ojs.aaai.org/index.php/AAAI/article/view/20674/20433>) - [[Code]](<https://github.com/skezle/owl>)
 - Continual Reinforcement Learning with Multi-Timescale Replay [[arXiv2020]](<https://arxiv.org/pdf/2004.07530.pdf>) - [[Code]](<https://github.com/ChristosKap/multi_timescale_replay>)
+
+# Both
+
+- Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL [[arXiv2024]](<https://arxiv.org/pdf/2404.02113.pdf>)
 
 # Environment
 
