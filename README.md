@@ -65,6 +65,7 @@ Table of Contents
 
 # etc
 
+- Revisiting Neural Networks for Continual Learning: An Architectural Perspective [[arXiv2024]](<https://arxiv.org/pdf/2404.14829>) - [[Code]](<https://github.com/byyx666/ArchCraft>)
 - Hyperparameter Selection in Continual Learning [[arXiv2024]](<https://arxiv.org/pdf/2404.06466.pdf>)
 - Disentangling the Causes of Plasticity Loss in Neural Networks [[arXiv2024]](<https://arxiv.org/pdf/2402.18762.pdf>)
 - Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks [[ICLR2024]](<https://openreview.net/pdf?id=sKPzAXoylB>) - [[Code]](<https://github.com/mohmdelsayed/upgd>)
