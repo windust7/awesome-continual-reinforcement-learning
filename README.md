@@ -65,6 +65,7 @@ Table of Contents
 
 # etc
 
+- Overestimation, Overfitting, and Plasticity in Actor-Critic: the Bitter Lesson of Reinforcement Learning [[ICML2024]](<https://arxiv.org/pdf/2403.00514>)
 - Revisiting Neural Networks for Continual Learning: An Architectural Perspective [[arXiv2024]](<https://arxiv.org/pdf/2404.14829>) - [[Code]](<https://github.com/byyx666/ArchCraft>)
 - Hyperparameter Selection in Continual Learning [[arXiv2024]](<https://arxiv.org/pdf/2404.06466.pdf>)
 - Disentangling the Causes of Plasticity Loss in Neural Networks [[arXiv2024]](<https://arxiv.org/pdf/2402.18762.pdf>)
