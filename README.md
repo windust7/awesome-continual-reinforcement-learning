@@ -65,6 +65,7 @@ Table of Contents
 
 # etc
 
+- Pausing Policy Learning in Non-stationary Reinforcement Learning [[ICML2024]] (<https://arxiv.org/pdf/2405.16053>)
 - Self-Composing Policies for Scalable Continual Reinforcement Learning [[ICML2024]]
 - Overestimation, Overfitting, and Plasticity in Actor-Critic: the Bitter Lesson of Reinforcement Learning [[ICML2024]](<https://arxiv.org/pdf/2403.00514>)
 - Revisiting Neural Networks for Continual Learning: An Architectural Perspective [[arXiv2024]](<https://arxiv.org/pdf/2404.14829>) - [[Code]](<https://github.com/byyx666/ArchCraft>)
