@@ -45,6 +45,7 @@ Table of Contents
 
 # Actor-Critic-method
 
+- Statistical Context Detection for Deep Lifelong Reinforcement Learning [[arXiv2024]](<https://arxiv.org/pdf/2405.19047>)
 - Reset & Distill: A Recipe for Overcoming Negative Transfer in Continual Reinforcement Learning [[arXiv2024]](<https://arxiv.org/pdf/2403.05066.pdf>)
 - Task-agnostic continual reinforcement learning: In praise of a simple baseline [[CoLLAs2023]](<https://arxiv.org/pdf/2205.14495.pdf>) - [[Code]](<https://github.com/amazon-science/replay-based-recurrent-rl>)
 - Self-Activating Neural Ensembles for Continual Reinforcement Learning [[CoLLAs2022]](<https://proceedings.mlr.press/v199/powers22a/powers22a.pdf>)
